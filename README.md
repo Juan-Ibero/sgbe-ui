@@ -186,7 +186,7 @@ VITE_API_URL=http://localhost:3000/api
 
 El progreso del proyecto se gestiona en **GitHub Projects**:
 
-👉 [Ver Tablero Sprint 1](https://github.com/TU-USUARIO/sgbe-ui/projects/1)
+👉 [Ver Tablero Sprint 1](https://github.com/users/Juan-Ibero/projects/1)
 
 ### Sprints
 
@@ -200,7 +200,7 @@ El progreso del proyecto se gestiona en **GitHub Projects**:
 
 ## 🎨 Prototipo Figma
 
-👉 [Ver Prototipo de Alta Fidelidad en Figma](https://www.figma.com/proto/SGBE-UI)
+👉 [Ver Prototipo de Alta Fidelidad en Figma](https://www.figma.com/make/AHxIiJGXXidtMQXmmJCaL0/Sistema-de-Gesti%C3%B3n-del-Bienestar-Estudiantil?t=zhdMxi4z5snOUi8H-1)
 
 Incluye navegabilidad completa entre:
 - Pantalla de Registro
